@@ -8,7 +8,7 @@ Available from [SVRTK repository](https://github.com/SVRTK/SVRTK)
 Original rigid slice-to-volume registration and super-resolution reconstruction for structural fetal brain MRI
 
 #### DSVR 
-Deformable slice-to-volume registration and super-resolution reconstruction for structural MRI of shole fetal body and placenta
+Deformable slice-to-volume registration and super-resolution reconstruction for structural MRI of whole fetal body and placenta
 
 #### 3D+T fetal cardiac MRI
 <img src="cardiac.gif" alt="Cardiac" height="200" align ="right" />
