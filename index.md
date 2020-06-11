@@ -32,3 +32,6 @@ MITK-based user interface is available from [cemrgapp repository](https://github
 * [Dr Joshua van Amerom](https://kclpure.kcl.ac.uk/portal/en/persons/joshua-van-amerom(e4307a05-28a4-4f63-9f01-7f8aacead352).html)
 * [Dr Thomas Roberts](https://kclpure.kcl.ac.uk/portal/t.roberts.html)
 
+## MRI Physics software
+Various MR physics software from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes highly-accelerated dynamic [2D fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) reconstruction.
+
