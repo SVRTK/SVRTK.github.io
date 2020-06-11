@@ -1,8 +1,8 @@
-#### Welcome. [SVRTK github site](https://github.com/SVRTK) hosts software repositories for motion correction and volumetric reconstruction of fetal MRI.
+#### Welcome. This [github site](https://github.com/SVRTK) hosts software repositories for motion correction and volumetric reconstruction of fetal MRI.
 
 ![GitHub Logo](SVRTKlogo.png)
 
-## Software tools
+## Software tools: [SVRTK](https://github.com/SVRTK/SVRTK)
 
 ### SVR 
 Original rigid slice-to-volume registration and super-resolution reconstruction for structural fetal brain MRI
