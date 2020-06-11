@@ -1,7 +1,6 @@
 #### Welcome. This [github site](https://github.com/SVRTK) hosts software repositories for motion correction and volumetric reconstruction of fetal MRI.
 
 ![DSVR](SVRTKlogo.png) 
-<img src="cardiac.gif" alt="Cardiac" width="200" aligh ="right" />
 
 ## SVRTK software tools
 Available from [SVRTK repository](https://github.com/SVRTK/SVRTK)
@@ -17,6 +16,7 @@ Rigid registration of slices to volumes resolved for cardiac phase and 3D+T supe
 
 #### 3D+T fetal cardiac blood flow
 Rigid registration of slices to volumes resolved for cardiac phase and 3D+T+velocity super-resolution reconstruction
+<img src="cardiac.gif" alt="Cardiac" width="200" aligh ="right" />
 
 #### Coming soon
 
