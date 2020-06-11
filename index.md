@@ -2,25 +2,25 @@
 
 ![GitHub Logo](SVRTKlogo.png)
 
-# [SVRTK software tools](https://github.com/SVRTK/SVRTK)
+## [SVRTK software tools](https://github.com/SVRTK/SVRTK)
 
-### SVR 
+#### SVR 
 Original rigid slice-to-volume registration and super-resolution reconstruction for structural fetal brain MRI
 
-### DSVR 
+#### DSVR 
 Deformable slice-to-volume registration and super-resolution reconstruction for structural MRI of shole fetal body and placenta
 
-### 3D+T fetal cardiac MRI
+#### 3D+T fetal cardiac MRI
 Rigid registration of slices to volumes resolved for cardiac phase and 3D+T super-resolution reconstruction
 
-### 3D+T fetal cardiac blood flow
+#### 3D+T fetal cardiac blood flow
 Rigid registration of slices to volumes resolved for cardiac phase and 3D+T+velocity super-resolution reconstruction
 
-### Coming soon
+#### Coming soon
 
 Tool for reconstruction of fetal diffusion and functional MRI
 
-# Contributors
+## Contributors
 
 * Dr Maria Deprez
 * Dr Alena Uus
