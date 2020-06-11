@@ -33,5 +33,5 @@ Tool for reconstruction of fetal diffusion and functional MRI
 MITK-based user interface is available from [cemrgapp repository](https://github.com/SVRTK/cemrgapp)
 
 ## MRI Physics software
-Various MRI physics softwares from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes highly-accelerated dynamic [fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) and [velocity](https://github.com/mriphysics/fetal_cmr_4d) reconstruction.
+Various MRI physics softwares from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes complete pipelines for highly-accelerated dynamic [fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) and [velocity](https://github.com/mriphysics/fetal_cmr_4d) reconstruction, to which SVRTK contributes.
 
