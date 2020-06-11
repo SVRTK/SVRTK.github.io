@@ -33,5 +33,5 @@ MITK-based user interface is available from [cemrgapp repository](https://github
 * [Dr Thomas Roberts](https://kclpure.kcl.ac.uk/portal/t.roberts.html)
 
 ## MRI Physics software
-Various MR physics software from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes highly-accelerated dynamic [fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) reconstruction.
+Various MR physics software from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes highly-accelerated dynamic [2D fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) reconstruction.
 
