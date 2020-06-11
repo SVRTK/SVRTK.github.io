@@ -1,7 +1,6 @@
 #### Welcome. This [github site](https://github.com/SVRTK) hosts software repositories for motion correction and volumetric reconstruction of fetal MRI.
 
-<img src="SVRTKlogo.png" alt="DSVR" height="200" align ="right" />
-
+<img src="SVRTKlogo.png" alt="DSVR" height="200" />
 
 ## SVRTK software tools
 Available from [SVRTK repository](https://github.com/SVRTK/SVRTK)
