@@ -24,7 +24,7 @@ Tool for reconstruction of fetal diffusion and functional MRI
 
 ## Contributors
 
-* ![Dr Maria Deprez](https://kclpure.kcl.ac.uk/portal/en/persons/maria-deprez(fe853779-4cf5-4343-95b9-1030ce0f87a5).html)
+* ![Dr Maria Deprez](https://kclpure.kcl.ac.uk/portal/maria.deprez)
 * Dr Alena Uus
 * Dr Joshua Van Amerom
 * Dr Thomas Roberts
