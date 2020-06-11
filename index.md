@@ -15,8 +15,8 @@ Deformable slice-to-volume registration and super-resolution reconstruction for 
 Rigid registration of slices to volumes resolved for cardiac phase and 3D+T super-resolution reconstruction
 
 #### 3D+T fetal cardiac blood flow
-Rigid registration of slices to volumes resolved for cardiac phase and 3D+T+velocity super-resolution reconstruction
 <img src="cardiac.gif" alt="Cardiac" width="200" aligh ="right" />
+Rigid registration of slices to volumes resolved for cardiac phase and 3D+T+velocity super-resolution reconstruction
 
 #### Coming soon
 
