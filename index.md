@@ -22,6 +22,9 @@ Rigid registration of slices to volumes resolved for cardiac phase and 3D+T+velo
 
 Tool for reconstruction of fetal diffusion and functional MRI
 
+#### Graphical user interface
+MITK-based user interface is available from [cemrgapp repository](https://github.com/SVRTK/cemrgapp)
+
 ## Contributors
 
 * [Dr Maria Deprez](https://kclpure.kcl.ac.uk/portal/maria.deprez.html)
