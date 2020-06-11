@@ -1,2 +1,1 @@
-# SVRTK.github.io
-Slice-to-volume reconstruction toolkit
+## SVRTK: Slice-to-volume reconstruction toolkit
