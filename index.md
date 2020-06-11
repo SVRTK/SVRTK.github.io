@@ -12,7 +12,8 @@ Original rigid slice-to-volume registration and super-resolution reconstruction 
 #### DSVR 
 Deformable slice-to-volume registration and super-resolution reconstruction for structural MRI of shole fetal body and placenta
 
-<img src="cardiac.gif" alt="Cardiac"height="200" align ="right" />
+<img src="cardiac.gif" alt="Cardiac" height="200" align ="right" />
+
 #### 3D+T fetal cardiac MRI
 Rigid registration of slices to volumes resolved for cardiac phase and 3D+T super-resolution reconstruction
 
