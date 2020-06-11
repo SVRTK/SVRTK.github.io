@@ -4,7 +4,7 @@
 Available from [SVRTK repository](https://github.com/SVRTK/SVRTK)
 
 #### SVR 
-<img src="SVRTKlogo.png" alt="DSVR" height="150" align ="right" />
+<img src="SVRTKlogo.png" alt="DSVR" height="160" align ="right" />
 Original rigid slice-to-volume registration and super-resolution reconstruction for structural fetal brain MRI
 
 #### DSVR 
