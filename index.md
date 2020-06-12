@@ -10,13 +10,13 @@ Original rigid slice-to-volume registration and super-resolution reconstruction 
 #### DSVR 
 Deformable slice-to-volume registration and super-resolution reconstruction for structural MRI of whole fetal body and placenta
 
-#### 3D+T fetal cardiac MRI
+#### 4D fetal cardiac MRI
 <img src="cardiac.gif" alt="Cardiac" height="200" align ="right" />
-Rigid slice-to-volume registration resolved for cardiac phase and 3D+T super-resolution reconstruction
+Rigid slice-to-volume registration resolved for cardiac phase and 4D super-resolution reconstruction
 
-#### 3D+T fetal cardiac blood flow
+#### 4D fetal cardiac blood flow
 
-Rigid slice-to-volume registration resolved for cardiac phase and 3D+T+velocity super-resolution reconstruction
+Rigid slice-to-volume registration resolved for cardiac phase and 4D+velocity super-resolution reconstruction
 
 #### Coming soon
 
