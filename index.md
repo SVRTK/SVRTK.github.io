@@ -29,7 +29,10 @@ Tool for reconstruction of fetal diffusion and functional MRI
 * [Dr Joshua van Amerom](https://kclpure.kcl.ac.uk/portal/en/persons/joshua-van-amerom(e4307a05-28a4-4f63-9f01-7f8aacead352).html)
 * [Dr Thomas Roberts](https://kclpure.kcl.ac.uk/portal/t.roberts.html)
 * [Dr Laurence Jackson](https://kclpure.kcl.ac.uk/portal/laurence.jackson.html)
+* [Irina Grigorescu](https://kclpure.kcl.ac.uk/portal/en/persons/irina-grigorescu(ca5d1541-edaf-4153-aecb-4a26c3d07bf1).html)
 * [Prof Jo Hajnal](https://kclpure.kcl.ac.uk/portal/jo.hajnal.html)
+
+
 
 ## Graphical user interface
 MITK-based user interface is available from [cemrgapp repository](https://github.com/SVRTK/cemrgapp)
