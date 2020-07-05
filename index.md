@@ -18,11 +18,10 @@ Rigid slice-to-volume registration resolved for cardiac phase and 4D super-resol
 Rigid slice-to-volume registration resolved for cardiac phase and 4D+velocity super-resolution reconstruction
 
 #### Fetal brain diffusion MRI (HARDI)
-<img src="SH.png" alt="Diffusion" height="120" align ="right" />
 Higher order spherical harmonics reconstruction of fetal diffusion brain MRI
+<img src="SH.png" alt="Diffusion" height="120" align ="right" />
 
 #### Coming soon
-
 Tools for B0 distortion correction, functional MRI and multimodal reconstruction
 
 ## Contributors
