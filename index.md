@@ -4,6 +4,7 @@
 Available from [SVRTK repository](https://github.com/SVRTK/SVRTK)
 
 <img src="SVRTKlogo.png" alt="DSVR" height="160" align ="right" />
+
 #### SVR 
 Original rigid slice-to-volume registration and super-resolution reconstruction for structural fetal brain MRI
 
@@ -11,6 +12,7 @@ Original rigid slice-to-volume registration and super-resolution reconstruction 
 Deformable slice-to-volume registration and super-resolution reconstruction for structural MRI of whole fetal body and placenta
 
 <img src="cardiac.gif" alt="Cardiac" height="200" align ="right" />
+
 #### 4D fetal cardiac MRI
 Rigid slice-to-volume registration resolved for cardiac phase and 4D super-resolution reconstruction
 
