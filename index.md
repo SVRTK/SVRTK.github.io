@@ -24,7 +24,7 @@ Higher order spherical harmonics reconstruction of fetal diffusion brain MRI
 
 #### Coming soon
 
-Tools for functional MRI and multimodal reconstruction
+Tools for B0 distortion correction, functional MRI and multimodal reconstruction
 
 ## Contributors
 
