@@ -4,7 +4,7 @@
 Available from [SVRTK repository](https://github.com/SVRTK/SVRTK)
 
 #### SVR 
-<img src="SVRTKlogo.png" alt="DSVR" height="200" align ="right" />
+<img src="SVRTKlogo.png" alt="DSVR" height="180" align ="right" />
 Original rigid slice-to-volume registration and super-resolution reconstruction for structural fetal brain MRI
 
 #### DSVR 
@@ -18,7 +18,7 @@ Rigid slice-to-volume registration resolved for cardiac phase and 4D super-resol
 Rigid slice-to-volume registration resolved for cardiac phase and 4D+velocity super-resolution reconstruction
 
 #### Fetal brain diffusion MRI (HARDI)
-<img src="SH.png" alt="Diffusion" height="140" align ="right" />
+<img src="SH.png" alt="Diffusion" height="120" align ="right" />
 Higher order spherical harmonics reconstruction of fetal diffusion brain MRI
 
 #### Coming soon
