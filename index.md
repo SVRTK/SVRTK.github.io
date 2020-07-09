@@ -45,7 +45,7 @@ Various MRI physics softwares from our colleagues are available from [mriphysics
 
 
 ## Collaborations
-We would like to thank all clinicians and physysists involved in fetal MRI acquisition and analysis that allowed us to develop and optimise SVR tools:
+We would like to thank all clinicians and physicists involved in fetal MRI acquisition and analysis that allowed us to develop and optimise SVR tools:
 * [Department of Perinatal Imaging & Health at King's College London / St. Thomas' Hospital](https://kclpure.kcl.ac.uk/portal/en/organisations/perinatal-imaging--health(fa53f340-67e7-4f72-9335-3992a13441ef).html)
 * [Intelligent Fetal Imaging and Diagnosis (iFIND) project](http://www.ifindproject.com/)
 * [Developing Human Connectome Project (dHCP) project](http://www.developingconnectome.org/project/)
