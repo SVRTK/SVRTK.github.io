@@ -39,6 +39,14 @@ Tools for B0 distortion correction, functional MRI and multimodal reconstruction
 ## Graphical user interface
 MITK-based user interface is available from [cemrgapp repository](https://github.com/SVRTK/cemrgapp)
 
+
 ## MRI Physics software
 Various MRI physics softwares from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes complete pipelines for highly-accelerated dynamic [fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) and [velocity](https://github.com/mriphysics/fetal_cmr_4d) reconstruction, to which SVRTK contributes.
 
+
+## Collaborations
+We would like to thank all clinicians and physysists involved in fetal MRI acquisition and analysis that allowed us to develop and optimise SVR tools:
+* [Department of Perinatal Imaging & Health at King's College London / St. Thomas's Hospital](https://kclpure.kcl.ac.uk/portal/en/organisations/perinatal-imaging--health(fa53f340-67e7-4f72-9335-3992a13441ef).html)
+* [iFIND project](http://www.ifindproject.com/)
+* [dHCP project](http://www.developingconnectome.org/project/)
+* [Placenta Imaging Project (PiP) project](https://placentaimagingproject.org/project/)
