@@ -50,3 +50,7 @@ We would like to thank all clinicians and physicists involved in fetal MRI acqui
 * [Intelligent Fetal Imaging and Diagnosis (iFIND) project](http://www.ifindproject.com/)
 * [Developing Human Connectome Project (dHCP) project](http://www.developingconnectome.org/project/)
 * [Placenta Imaging Project (PiP) project](https://placentaimagingproject.org/project/)
+
+We also would like to thank all developers of [IRTK](https://github.com/BioMedIA/IRTK) and [MIRTK](https://github.com/BioMedIA/MIRTK) tools:
+* [Biomedical Image Analysis Group](https://biomedia.doc.ic.ac.uk/) at Imperial College London
+* [Dr Andreas Schuh](https://github.com/schuhschuh)
