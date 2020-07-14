@@ -36,12 +36,12 @@ Tools for B0 distortion correction, functional MRI and multimodal reconstruction
 
 
 
-## Graphical user interface
-MITK-based user interface is available from [cemrgapp repository](https://github.com/SVRTK/cemrgapp)
-
-
 ## Docker 
 Compiled SVR toolbox is available at: [https://hub.docker.com/repository/docker/fetalsvrtk/svrtk](https://hub.docker.com/repository/docker/fetalsvrtk/svrtk)
+
+
+## Graphical user interface
+MITK-based user interface is available from [cemrgapp repository](https://github.com/SVRTK/cemrgapp)
 
 
 ## MRI Physics software
