@@ -21,7 +21,7 @@ Rigid slice-to-volume registration resolved for cardiac phase and 4D+velocity su
 Higher order spherical harmonics reconstruction of fetal diffusion brain MRI
 <img src="SH.png" alt="Diffusion" height="120" align ="right" />
 
-#### Multi-channel reconstrction of T2* maps for fetal and placental MRI (HARDI)
+#### Multi-channel reconstrction of T2* maps for fetal and placental MRI
 DSVR of T2* maps with one of the echoes driving registration
 
 #### Coming soon
