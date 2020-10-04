@@ -25,7 +25,7 @@ Higher order spherical harmonics reconstruction of fetal diffusion brain MRI
 DSVR of T2* maps with one of the echoes driving registration
 
 #### Coming soon
-Tools for B0 distortion correction, functional MRI and multimodal reconstruction
+Tools for B0 distortion correction, functional MRI and multimodal reconstruction, CNN-based localisation, segmentation and SR
 
 ## Contributors
 
