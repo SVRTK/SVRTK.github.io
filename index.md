@@ -25,7 +25,7 @@ Higher order spherical harmonics reconstruction of fetal diffusion brain MRI
 DSVR of T2* maps with one of the echoes driving registration
 
 #### Automated 3D segmentation and localisation for fetal MRI
-CNN for localisation and segmentation in motion-corrupted stacks and motion corrected volumes 
+CNN for segmentation in motion-corrupted stacks and motion corrected volumes 
 
 #### Coming soon
 Tools for B0 distortion correction, functional MRI and multimodal reconstruction, CNN-based registration and SR
