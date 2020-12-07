@@ -43,7 +43,7 @@ Tools for B0 distortion correction, functional MRI and multimodal reconstruction
 
 
 ## Docker 
-Compiled SVR toolbox is available at: [https://hub.docker.com/repository/docker/fetalsvrtk/svrtk](https://hub.docker.com/repository/docker/fetalsvrtk/svrtk)
+Compiled SVR toolbox is available via [DockerHub](https://hub.docker.com/repository/docker/fetalsvrtk/svrtk)
 
 
 ## Graphical user interface
