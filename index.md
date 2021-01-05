@@ -24,7 +24,7 @@ Higher order spherical harmonics reconstruction of fetal diffusion brain MRI
 #### Multi-channel reconstruction of T2* maps for fetal and placental MRI
 DSVR of T2* maps with one of the echoes driving registration
 
-#### Automated 3D segmentation and localisation for fetal MRI
+#### [Automated 3D segmentation and localisation for fetal MRI](https://github.com/SVRTK/Segmentation_FetalMRI)
 CNN for segmentation in motion-corrupted stacks and motion corrected volumes 
 
 #### Coming soon
