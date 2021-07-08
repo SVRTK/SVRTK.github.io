@@ -50,6 +50,10 @@ Compiled SVR toolbox is available via [DockerHub](https://hub.docker.com/reposit
 MITK-based user interface is available from [cemrgapp repository](https://github.com/SVRTK/cemrgapp)
 
 
+## Data storage repository 
+The SVRTK data resources (including network weights) are available from [gin.g-node SVRTK repository](https://gin.g-node.org/SVRTK)
+
+
 ## MRI Physics software
 Various MRI physics softwares from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes complete pipelines for highly-accelerated dynamic [fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) and [velocity](https://github.com/mriphysics/fetal_cmr_4d) reconstruction, to which SVRTK contributes.
 
