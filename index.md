@@ -57,6 +57,9 @@ The SVRTK data resources (including network weights) are available from [gin.g-n
 ## MRI Physics software
 Various MRI physics softwares from our colleagues are available from [mriphysics.github.io](http://mriphysics.github.io/). This includes complete pipelines for highly-accelerated dynamic [fetal cardiac cine MRI](http://mriphysics.github.io/fetalcmr.html) and [velocity](https://github.com/mriphysics/fetal_cmr_4d) reconstruction, to which SVRTK contributes.
 
+## Fetal cardiac MRI 
+Our colleagues from the fetal cardiac MRI group at KCL and Evelina London Children’s Hospital: [fetalcmr.github.io](https://fetalcmr.github.io/).
+
 
 ## Thank you
 We would like to thank all clinicians and physicists involved in fetal MRI acquisition and analysis for providing the datasets that allowed us to develop and optimise SVR tools:
