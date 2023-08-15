@@ -41,7 +41,7 @@ We also want to express gratitude to:
 Code in all SVRTK repositories is owned directly by KCL and is distributed under the terms of the Apache License Version 2. The license enables usage of all SVRTK code for both commercial and non-commercial applications, without restrictions on the licensing applied to the combined work.
 
 
-## Acknowledgements 
+## Acknowledgements and Ownership Policy 
 
 In case you found our work useful please give appropriate credit to the software repositories and individual authors.
 
