@@ -41,7 +41,7 @@ We also want to express gratitude to:
 In case you found our work useful please give appropriate credit to the software repositories and individual authors.
 
 - Our policy prioritises acknowledgement of contributions of individual authors.
-- SVRTK has no centralised leadership.
+- SVRTK has no centralised leadership or ownership.
 - This is a collection of open source repositories from individual projects and contributors.  
 
 
