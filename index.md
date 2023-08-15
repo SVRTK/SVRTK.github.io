@@ -1,4 +1,4 @@
-### [SVRTK](https://github.com/SVRTK) GitHub organisation from King's College London provides a set of solutions for fetal MRI processing:
+#### [SVRTK](https://github.com/SVRTK) GitHub organisation from King's College London provides a set of solutions for fetal MRI processing:
 
 - 3D slice-to-volume registration reconstruction solutions 
 - Segmentation 
@@ -40,7 +40,9 @@ We also want to express gratitude to:
 
 In case you found our work useful please give appropriate credit to the software repositories and individual authors.
 
-Our policy prioritises acknowledgement of contributions of individual authors. SVRTK has no centralised leadership. This is a collection of open source repositories from individual projects and contributors.  
+- Our policy prioritises acknowledgement of contributions of individual authors.
+- SVRTK has no centralised leadership.
+- This is a collection of open source repositories from individual projects and contributors.  
 
 
 ### License  
